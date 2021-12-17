@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Special Design Bureau of the Moscow Power Engineering Institute Russian Space Systems
 - 🌱 I’m currently learning C++ and Python3
-- 📫 How to reach me: [telegram](https://t.me/Serghom) or [Email](serghom99@gmail.com)
+- 📫 How to reach me: [telegram](https://t.me/Serghom) or [Email](mailto:serghom99@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
